@@ -8,7 +8,5 @@ public class AdsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AdsApplication.class, args);
-        System.out.println("test");
     }
-
 }
